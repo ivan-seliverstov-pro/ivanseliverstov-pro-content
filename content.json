@@ -703,10 +703,12 @@
 	"gratitudeImagesData": [
 		{
 			"src": "/images/recomendation/Acknowledgement_Kojima.webp",
+			"thumb": "/images/recomendation/Acknowledgement_Kojima_thumb.webp",
 			"alt": "Acknowledgement_Kojima"
 		},
 		{
 			"src": "/images/recomendation/Acknowledgement_IRKI.webp",
+			"thumb": "/images/recomendation/Acknowledgement_IRKI_thumb.webp",
 			"alt": "Acknowledgement_IRKI"
 		}
 	],
