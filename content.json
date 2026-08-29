@@ -22,7 +22,7 @@
 			"Работаю с материалами любого объёма — от надписи на футболке до издания на 1,5 млн знаков. Принцип всегда один: **разобраться, что не так, и навести порядок**. Я не пишу тексты с нуля — я делаю сильными те, что уже созданы. За этим меня и зовут."
 		],
 		"portrait": "/images/about/Ivan_Seliverstov.webp",
-		"alt": "Ivan_Seliverstov",
+		"alt": "Иван Селиверстов, редактор и корректор",
 		"stats": [
 			{
 				"value": "8 лет",
@@ -64,7 +64,7 @@
 			}
 		],
 		"bookshelfImage": "/images/skills/Professional_literature.webp",
-		"bookshelfAlt": "Professional_literature",
+		"bookshelfAlt": "Книжная полка со словарями и справочниками по русскому языку: Розенталь, фразеологические словари, словари ударений и паронимов, пособия по редактированию",
 		"workStepsTitle": "Как я работаю",
 		"workSteps": [
 			{
@@ -92,112 +92,112 @@
 		{
 			"name": "Издательская группа АСТ",
 			"logo": "/images/clients/AST.webp",
-			"alt": "AST",
+			"alt": "Логотип издательской группы АСТ",
 			"height": 74,
 			"mobileHeight": 74
 		},
 		{
 			"name": "Мортёшка",
 			"logo": "/images/clients/Morteshka.webp",
-			"alt": "Morteshka",
+			"alt": "Логотип студии «Мортёшка»",
 			"height": 50,
 			"mobileHeight": 35
 		},
 		{
 			"name": "Питер",
 			"logo": "/images/clients/Piter.webp",
-			"alt": "Piter",
+			"alt": "Логотип издательства «Питер»",
 			"height": 150,
 			"mobileHeight": 125
 		},
 		{
 			"name": "Hobby World",
 			"logo": "/images/clients/Hobby_World.webp",
-			"alt": "Hobby_World",
+			"alt": "Логотип Hobby World",
 			"height": 74,
 			"mobileHeight": 60
 		},
 		{
 			"name": "Alt Graph",
 			"logo": "/images/clients/Alt_Graph.webp",
-			"alt": "Alt_Graph",
+			"alt": "Логотип Alt Graph",
 			"height": 74,
 			"mobileHeight": 50
 		},
 		{
 			"name": "Boys and books",
 			"logo": "/images/clients/Boys_and_Books.webp",
-			"alt": "Boys_and_Books",
+			"alt": "Логотип Boys and books",
 			"height": 250,
 			"mobileHeight": 160
 		},
 		{
 			"name": "Jellyfish Jam",
 			"logo": "/images/clients/Jellyfish_Jam.svg",
-			"alt": "Jellyfish_Jam",
+			"alt": "Логотип Jellyfish Jam",
 			"height": 97,
 			"mobileHeight": 97
 		},
 		{
 			"name": "Magic comics",
 			"logo": "/images/clients/Magic_Comics.webp",
-			"alt": "Magic_Comics",
+			"alt": "Логотип Magic comics",
 			"height": 127,
 			"mobileHeight": 101
 		},
 		{
 			"name": "Pulsart",
 			"logo": "/images/clients/Pulsart.webp",
-			"alt": "Pulsart",
+			"alt": "Логотип Pulsart",
 			"height": 127,
 			"mobileHeight": 121
 		},
 		{
 			"name": "Alpaca",
 			"logo": "/images/clients/Alpaca.webp",
-			"alt": "Alpaca",
+			"alt": "Логотип Alpaca",
 			"height": 173,
 			"mobileHeight": 145
 		},
 		{
 			"name": "БамБук",
 			"logo": "/images/clients/Bambook.webp",
-			"alt": "Bambook",
+			"alt": "Логотип «БамБука»",
 			"height": 110,
 			"mobileHeight": 100
 		},
 		{
 			"name": "Белое яблоко",
 			"logo": "/images/clients/White_apple.webp",
-			"alt": "White_apple",
+			"alt": "Логотип издательства «Белое яблоко»",
 			"height": 105,
 			"mobileHeight": 80
 		},
 		{
 			"name": "Комфедерация",
 			"logo": "/images/clients/Comfederation.webp",
-			"alt": "Comfederation",
+			"alt": "Логотип «Комфедерации»",
 			"height": 117,
 			"mobileHeight": 107
 		},
 		{
 			"name": "Fanzon",
 			"logo": "/images/clients/Fanzon.svg",
-			"alt": "Fanzon",
+			"alt": "Логотип Fanzon",
 			"height": 74,
 			"mobileHeight": 74
 		},
 		{
 			"name": "Рамона",
 			"logo": "/images/clients/Ramona.webp",
-			"alt": "Ramona",
+			"alt": "Логотип издательства «Рамона»",
 			"height": 74,
 			"mobileHeight": 70
 		},
 		{
 			"name": "Комильфо",
 			"logo": "/images/clients/Comme_il_faut.svg",
-			"alt": "Comme_il_faut",
+			"alt": "Логотип издательства «Комильфо»",
 			"height": 66,
 			"mobileHeight": 56
 		}
@@ -207,7 +207,7 @@
 			"id": "black-book",
 			"title": "Чёрная книга",
 			"image": "/images/projects/cases/Black_Book.webp",
-			"alt": "Black_Book",
+			"alt": "Чёрная книга",
 			"tags": [
 				"редактор",
 				"корректор"
@@ -221,7 +221,7 @@
 			"id": "conan",
 			"title": "«Конан». Коллекционное издание",
 			"image": "/images/projects/cases/Conan.webp",
-			"alt": "Conan",
+			"alt": "«Конан». Коллекционное издание",
 			"tags": [
 				"редактор",
 				"переводчик стихов",
@@ -236,7 +236,7 @@
 			"id": "irki",
 			"title": "История российских компьютерных игр. 1971–2024",
 			"image": "/images/projects/cases/IRKI.webp",
-			"alt": "IRKI",
+			"alt": "История российских компьютерных игр. 1971–2024",
 			"tags": [
 				"литературный редактор",
 				"корректор",
@@ -249,10 +249,10 @@
 			]
 		},
 		{
-			"id": "breathe-of-bones",
+			"id": "breath-of-bones",
 			"title": "Дух во плоти. История о големе",
-			"image": "/images/projects/cases/Breathe_of_bones.webp",
-			"alt": "Breathe_of_bones",
+			"image": "/images/projects/cases/Breath_of_bones.webp",
+			"alt": "Дух во плоти. История о големе",
 			"tags": [
 				"переводчик",
 				"выпускающий редактор"
@@ -266,7 +266,7 @@
 			"id": "tamagotchi",
 			"title": "Энциклопедия тамагочи. Карманные питомцы в России",
 			"image": "/images/projects/cases/Tamagotchi.webp",
-			"alt": "Tamagotchi",
+			"alt": "Энциклопедия тамагочи. Карманные питомцы в России",
 			"tags": [
 				"литературный редактор",
 				"выпускающий редактор"
@@ -280,7 +280,7 @@
 			"id": "genius",
 			"title": "Биг Босс. Жизнь и творчество Хидэо Кодзимы",
 			"image": "/images/projects/cases/Kojima.webp",
-			"alt": "Kojima",
+			"alt": "Биг Босс. Жизнь и творчество Хидэо Кодзимы",
 			"tags": [
 				"литературный редактор",
 				"корректор",
@@ -295,7 +295,7 @@
 			"id": "fanfics",
 			"title": "13 карт. Фанфики. Избранное",
 			"image": "/images/projects/cases/Fanfiction.webp",
-			"alt": "Fanfiction",
+			"alt": "13 карт. Фанфики. Избранное",
 			"tags": [
 				"литературный редактор",
 				"корректор",
@@ -310,14 +310,14 @@
 			"id": "popcult",
 			"title": "Попкульт-2000",
 			"image": "/images/projects/cases/Popcult_2000.webp",
-			"alt": "Popcult_2000",
+			"alt": "Попкульт-2000",
 			"tags": [
 				"литературный редактор",
 				"корректор",
 				"выпускающий редактор"
 			],
 			"description": [
-				"Первая книга серии на основе видеоэссе Дмитрия Сыендука. быстро привёл статьи восьми авторов разного уровня к единому стилю, нашёл исполнителя для музыкального раздела, а финальный макет проверил за три часа.",
+				"Первая книга серии на основе видеоэссе Дмитрия Сыендука. Я быстро привёл статьи восьми авторов разного уровня к единому стилю, нашёл исполнителя для музыкального раздела, а финальный макет проверил за три часа.",
 				"Тираж разошёлся за несколько месяцев. [Подробнее о работе — в рекомендации Анны, автора идеи проекта.](#rec:ustyuzhaninova)"
 			]
 		}
@@ -330,25 +330,25 @@
 				{
 					"title": "The Elder Scrolls Online",
 					"image": "/images/projects/grid/games/The_Elder_Scrolls_Online.webp",
-					"alt": "The_Elder_Scrolls_Online",
+					"alt": "The Elder Scrolls Online",
 					"description": "Фанатский переводческий проект под названием RuESO, 2017 год. Я ещё не редактор и не корректор, зато у меня масса энтузиазма. Впоследствии мои адаптации стихов для этой игры попали в её официальную локализацию."
 				},
 				{
 					"title": "Лихо одноглазое",
 					"image": "/images/projects/grid/games/One-Eyed_Likho.webp",
-					"alt": "One-Eyed_Likho",
+					"alt": "Лихо одноглазое",
 					"description": "Пытаюсь вспомнить, сколько вариаций одноимённой сказки я прочитал при работе... Штук 20, не меньше. Редактура и корректура под ключ, как всегда."
 				},
 				{
 					"title": "Perilous Warp",
 					"image": "/images/projects/grid/games/Perilous_Warp.webp",
-					"alt": "Perilous_Warp",
+					"alt": "Perilous Warp",
 					"description": "Шутеры от первого лица — одно из моих многочисленных хобби. Пройдя очередной, я заметил в его текстах ошибки и написал разработчикам. Всё исправил за вечер."
 				},
 				{
 					"title": "Чёрная книга",
 					"image": "/images/projects/grid/games/Black_Book.webp",
-					"alt": "Black_Book",
+					"alt": "Чёрная книга",
 					"description": "Изучал коми-пермяцкий язык, чтобы передать колорит малого народа максимально широкой аудитории.",
 					"projectId": "black-book"
 				}
@@ -361,19 +361,19 @@
 				{
 					"title": "Шерлок Холмс. Четыре расследования",
 					"image": "/images/projects/grid/tabletop/Sherlock_Holmes.webp",
-					"alt": "Sherlock_Holmes",
+					"alt": "Шерлок Холмс. Четыре расследования",
 					"description": "Комикс-игра. Поскакать по макету пришлось изрядно: по сути, издание — сеть перекрёстных ссылок."
 				},
 				{
 					"title": "Зомбицид",
 					"image": "/images/projects/grid/tabletop/Zombicide.webp",
-					"alt": "Zombicide",
+					"alt": "Зомбицид",
 					"description": "Одна из самых популярных современных настолок. Сверялся с 16 оригинальными файлами, чтобы ничего не упустить."
 				},
 				{
 					"title": "Сумерки империи",
 					"image": "/images/projects/grid/tabletop/Twilight_Imperium.webp",
-					"alt": "Twilight_Imperium",
+					"alt": "Сумерки империи",
 					"description": "Энциклопедия фантастического мира и жёсткие правила настолки в одной коробке. Проверил всё, включая коробку."
 				}
 			]
@@ -384,28 +384,28 @@
 			"items": [
 				{
 					"title": "Попкульт-2000",
-					"image": "/images/projects/grid/books/Popcult_200.webp",
-					"alt": "Popcult_200",
+					"image": "/images/projects/grid/books/Popcult_2000.webp",
+					"alt": "Попкульт-2000",
 					"description": "Серия книг на основе видеоэссе Дмитрия Сыендука — и восемь непохожих авторских голосов, которые нужно было привести к общему знаменателю.",
 					"projectId": "popcult"
 				},
 				{
 					"title": "Yokai. Энциклопедия японских демонов, призраков, оборотней и монстров",
 					"image": "/images/projects/grid/books/Yokai.webp",
-					"alt": "Yokai",
+					"alt": "Yokai. Энциклопедия японских демонов, призраков, оборотней и монстров",
 					"description": "Откорректировал издание со множеством специфических слов, а когда его напечатали, добавил в свою библиотеку: понравилось."
 				},
 				{
 					"title": "«Конан». Коллекционное издание",
 					"image": "/images/projects/grid/books/Conan.webp",
-					"alt": "Conan",
+					"alt": "«Конан». Коллекционное издание",
 					"description": "1,5 млн знаков — мой рекордсмен по объёму. Время на повторную вычитку я сократил с нескольких недель до одного дня без потери качества.",
 					"projectId": "conan"
 				},
 				{
 					"title": "Энциклопедия тамагочи. Карманные питомцы в России",
 					"image": "/images/projects/grid/books/Tamagotchi.webp",
-					"alt": "Tamagotchi",
+					"alt": "Энциклопедия тамагочи. Карманные питомцы в России",
 					"description": "Автор — эксперт по теме, но не профессиональный писатель. Оформил его знания в связный текст.",
 					"projectId": "tamagotchi"
 				},
@@ -413,18 +413,18 @@
 					"title": "Metronomicon",
 					"image": "/images/projects/grid/books/Metronomicon.webp",
 					"alt": "Metronomicon",
-					"description": "В сборник вошли рассказы профессиональных литераторов, включая Сергея Лукьяненко, а я его откорректировал."
+					"description": "В сборник вошли рассказы профессиональных литераторов, включая Сергея Лукьяненко, а я его откорректировал."
 				},
 				{
 					"title": "Звёздные войны. Мандалорец",
 					"image": "/images/projects/grid/books/Mandalorian.webp",
-					"alt": "Mandalorian",
+					"alt": "Звёздные войны. Мандалорец",
 					"description": "Де-юре я выполнил корректуру, а де-факто ещё и помог переводчику отловить несколько смысловых ошибок."
 				},
 				{
 					"title": "13 карт. Фанфики. Избранное",
 					"image": "/images/projects/grid/books/Fanfiction.webp",
-					"alt": "Fanfiction",
+					"alt": "13 карт. Фанфики. Избранное",
 					"description": "11 авторов под одной обложкой — и у всех первая публикация. Усилил голос каждого.",
 					"projectId": "fanfics"
 				}
@@ -437,32 +437,32 @@
 				{
 					"title": "Босоногий Гэн. Полное собрание",
 					"image": "/images/projects/grid/comics/Barefoot_Gen.webp",
-					"alt": "Barefoot_Gen",
+					"alt": "Босоногий Гэн. Полное собрание",
 					"description": "Я не мог взяться за проект из-за занятости, но клиент согласился подождать меня месяц. На корректуру всех трёх томов (более 2500 страниц) ушло чуть меньше недели."
 				},
 				{
 					"title": "Земля королей. Трефовый том",
 					"image": "/images/projects/grid/comics/Land_of_Kings.webp",
-					"alt": "Land_of_Kings",
+					"alt": "Земля королей. Трефовый том",
 					"description": "Самый продаваемый комикс России (2021), обладатель гран-при премии «ЮФ» (2024). Вместе с «Червовым томом», который я также корректировал, тираж составил 400 тыс. экз."
 				},
 				{
 					"title": "Скотт Пилигрим. Коллекционное издание",
 					"image": "/images/projects/grid/comics/Scott_Pilgrim.webp",
-					"alt": "Scott_Pilgrim",
+					"alt": "Скотт Пилигрим. Коллекционное издание",
 					"description": "Несмотря на простое для меня задание — корректура, — один из самых экстремальных заказов в моей практике: 1408 страниц за два с половиной дня. При этом ошибок в трёхтомнике читатели не нашли."
 				},
 				{
 					"title": "Дух во плоти. История о големе",
-					"image": "/images/projects/grid/comics/Breathe_of_bones.webp",
-					"alt": "Breathe_of_bones",
+					"image": "/images/projects/grid/comics/Breath_of_bones.webp",
+					"alt": "Дух во плоти. История о големе",
 					"description": "Начал как редактор перевода, закончил как человек-оркестр.",
-					"projectId": "breathe-of-bones"
+					"projectId": "breath-of-bones"
 				},
 				{
 					"title": "Гибель богов. Книга Хагена. Том 1",
 					"image": "/images/projects/grid/comics/Doom_of_the_Gods.webp",
-					"alt": "Doom_of_the_Gods",
+					"alt": "Гибель богов. Книга Хагена. Том 1",
 					"description": "Комикс по Перумову. Автор адаптации отметил, насколько продуманно я его отредактировал. И быстро: всего за день."
 				},
 				{
@@ -474,25 +474,25 @@
 				{
 					"title": "Новые Мстители. Том 1",
 					"image": "/images/projects/grid/comics/New_Avengers.webp",
-					"alt": "New_Avengers",
+					"alt": "Новые Мстители. Том 1",
 					"description": "Большая энциклопедия в конце тома — задача, от которой отказались другие, но не я. Погрузился в 80-летнюю историю вселенной Marvel и исправил ошибки, допущенные даже в оригинальном издании."
 				},
 				{
 					"title": "Грог-лягуха. Книга Тельца",
 					"image": "/images/projects/grid/comics/Grog_the_Frog.webp",
-					"alt": "Grog_the_Frog",
+					"alt": "Грог-лягуха. Книга Тельца",
 					"description": "Организовал выпуск комикса силами трёх человек за три недели — вдвое быстрее обычного цикла. Взял на себя перевод и корректуру, привлёк редактора и верстальщика, заранее запросил ретушь надписей."
 				},
 				{
 					"title": "Старгейзер 256",
 					"image": "/images/projects/grid/comics/Stargazer.webp",
-					"alt": "Stargazer",
+					"alt": "Старгейзер 256",
 					"description": "Основные проблемы были с диалогами, и я помог их решить. Комикс получил всероссийскую литературную премию Союза писателей России (2025)."
 				},
 				{
 					"title": "Дэдпул. Marvel NOW!",
 					"image": "/images/projects/grid/comics/Deadpool.webp",
-					"alt": "Deadpool",
+					"alt": "Дэдпул. Marvel NOW!",
 					"description": "Полнее некуда: 1360 страниц, российский комикс-рекордсмен. Откорректировал за четыре дня."
 				}
 			]
@@ -503,50 +503,50 @@
 			"items": [
 				{
 					"title": "World of Warcraft. Маг",
-					"alt": "World_of_Warcraft",
+					"alt": "World of Warcraft. Маг",
 					"image": "/images/projects/grid/game-publish/World_of_Warcraft.webp",
 					"description": "Я разыскивал сотрудников профильной редакции издательства в интернете, чтобы через них выйти на шеф-редактора. Этот проект мне на редактуру выдали одним из первых."
 				},
 				{
 					"title": "Василиса и Баба Яга. Вещий сон",
-					"alt": "Vasilisa_and_Baba_Yaga",
+					"alt": "Василиса и Баба Яга. Вещий сон",
 					"image": "/images/projects/grid/game-publish/Vasilisa_and_Baba_Yaga.webp",
 					"description": "120 редакторских и корректорских правок с последующей проверкой внесения. Полный цикл занял меньше дня."
 				},
 				{
 					"title": "Magic: The Gathering. Восход стражи. Визуальная история",
-					"alt": "Magic_The_Gathering",
+					"alt": "Magic: The Gathering. Восход стражи. Визуальная история",
 					"image": "/images/projects/grid/game-publish/Magic_The_Gathering.webp",
 					"description": "Не только art, но и book: в смысле, там есть что почитать. И было что покорректировать."
 				},
 				{
 					"title": "DotA 2. Официальная книга комиксов",
-					"alt": "DotA_2",
+					"alt": "DotA 2. Официальная книга комиксов",
 					"image": "/images/projects/grid/game-publish/DotA_2.webp",
 					"description": "Незнакомый лор занёс в собственный глоссарий: все имена и названия собрал в отдельный документ и сверялся с ним до конца проекта."
 				},
 				{
 					"title": "История российских компьютерных игр. 1971–2024",
-					"alt": "IRKI",
+					"alt": "История российских компьютерных игр. 1971–2024",
 					"image": "/images/projects/grid/game-publish/IRKI.webp",
 					"description": "Превратил стенограмму в книгу, при этом сохранив живую речь героев геймдева.",
 					"projectId": "irki"
 				},
 				{
 					"title": "League of Legends. Люкс",
-					"alt": "League_of_Legends",
+					"alt": "League of Legends. Люкс",
 					"image": "/images/projects/grid/game-publish/League_of_Legends.webp",
 					"description": "Не только корректировал, но и проверял имена, названия и соответствие лору. В качестве эксперта привлёк игрока с многолетним опытом, и так удалось выявить несколько неточностей."
 				},
 				{
 					"title": "Mass Effect. Полное издание",
-					"alt": "Mass_Effect",
+					"alt": "Mass Effect. Полное издание",
 					"image": "/images/projects/grid/game-publish/Mass_Effect.webp",
 					"description": "Я прошёл оригинальную трилогию, но к моменту получения заказа многое забыл. Для работы освежил воспоминания с помощью фанатской энциклопедии, хотя изначально был нанят корректором."
 				},
 				{
 					"title": "Биг Босс. Жизнь и творчество Хидэо Кодзимы",
-					"alt": "Kojima",
+					"alt": "Биг Босс. Жизнь и творчество Хидэо Кодзимы",
 					"image": "/images/projects/grid/game-publish/Kojima.webp",
 					"description": "Глубокая редактура с проверкой фактов. Все спорные вопросы закрыл с автором за полтора часа.",
 					"projectId": "genius"
@@ -559,8 +559,8 @@
 			"id": "beletsky",
 			"name": "Владимир Белецкий",
 			"role": "Основатель студии «Мортёшка»",
-			"image": "/images/recomendation/Beletsky.webp",
-			"alt": "Beletsky",
+			"image": "/images/recommendation/Beletsky.webp",
+			"alt": "Владимир Белецкий",
 			"review": "Иван выполняет редакторские задачи вдумчиво и с уважением к исходному тексту. Благодаря ему выросло качество наших проектов. Вместе работали над «Чёрной книгой» и «Лихом одноглазым» — будем работать и дальше!",
 			"contacts": [
 				{
@@ -577,8 +577,8 @@
 			"id": "ustyuzhaninova",
 			"name": "Анна Устюжанинова",
 			"role": "Руководитель продуктового видеопромо, «Кинопоиск»",
-			"image": "/images/recomendation/Ustyuzhaninova.webp",
-			"alt": "Ustyuzhaninova",
+			"image": "/images/recommendation/Ustyuzhaninova.webp",
+			"alt": "Анна Устюжанинова",
 			"review": "Иван выступил в роли выпускающего редактора книг серии «Попкульт» — и сделал гораздо больше, чем мы обсуждали на берегу. Он чутко проработал смысл и структуру текста, дотошно правил всё в несколько кругов и следил за результатом так, будто это самый важный проект на свете. В итоге текст зажил свою лучшую жизнь.",
 			"contacts": [
 				{
@@ -595,8 +595,8 @@
 			"id": "dmitrovsky",
 			"name": "Роман Дмитровский",
 			"role": "Экс-главред «Комильфо», главред «Рамоны»",
-			"image": "/images/recomendation/Dmitrovsky.webp",
-			"alt": "Dmitrovsky",
+			"image": "/images/recommendation/Dmitrovsky.webp",
+			"alt": "Роман Дмитровский",
 			"review": "С Иваном работаем уже почти 10 лет, за которые подготовили без преувеличения сотни проектов. Он легко совмещает редакторскую и корректорскую работу, обладает феноменальным чувством языка и неоднократно справлялся с задачами, которые казались невыполнимыми. За все годы не могу вспомнить за ним ни одного срыва сроков, внезапного исчезновения или халатного отношения к делу.",
 			"contacts": [
 				{
@@ -613,8 +613,8 @@
 			"id": "bjornson",
 			"name": "Харальд Бьёрнсон",
 			"role": "Переводчик и сценарист",
-			"image": "/images/recomendation/Bjornson.webp",
-			"alt": "Bjornson",
+			"image": "/images/recommendation/Bjornson.webp",
+			"alt": "Харальд Бьёрнсон",
 			"review": "Сотрудничаю с Иваном много лет, стараюсь привлекать его к работе над всеми своими текстами — от авторских до переводных, от прозы до поэзии. Ответственный и неравнодушный редактор, благодаря которому я и сам вырос как профессионал.",
 			"contacts": [
 				{
@@ -631,8 +631,8 @@
 			"id": "kostin",
 			"name": "Семён Костин",
 			"role": "Игровой журналист (ex-«Игромания», DTF, <nobr>Т—Ж</nobr>)",
-			"image": "/images/recomendation/Kostin.webp",
-			"alt": "Kostin",
+			"image": "/images/recommendation/Kostin.webp",
+			"alt": "Семён Костин",
 			"review": "Редактор, с которым хочется работать снова и снова. Внимательная, въедливая работа — каждое замечание было по делу, а книга в итоге стала заметно сильнее.",
 			"contacts": [
 				{
@@ -649,8 +649,8 @@
 			"id": "granko",
 			"name": "Максим Гранько",
 			"role": "Арт-директор, издательство МИФ",
-			"image": "/images/recomendation/Granko.webp",
-			"alt": "Granko",
+			"image": "/images/recommendation/Granko.webp",
+			"alt": "Максим Гранько",
 			"review": "Когда я решил попробовать себя в переводе, бонусом к нему шли статьи, интервью и сложная поэзия. Повезло, что рядом оказался Иван: он вёл меня за ручку, ругал по делу и помог качественно довести проект до финала. Особенно ценю его разноплановую экспертизу: править приходилось буквально всё подряд — от переложения стихов с английского до сверки японской фонетики.",
 			"contacts": [
 				{
@@ -667,8 +667,8 @@
 			"id": "voronin",
 			"name": "Илья Воронин",
 			"role": "Соучредитель издательства «Белое яблоко»",
-			"image": "/images/recomendation/Voronin.webp",
-			"alt": "Voronin",
+			"image": "/images/recommendation/Voronin.webp",
+			"alt": "Илья Воронин",
 			"review": "В Иване удивительным образом сочетаются идеальное знание языка, дотошность фактчекера и чуткость обычного читателя. В выходных данных он значится редактором, но его вклад всегда гораздо шире. При этом он фантастически работоспособен и железно соблюдает сроки. Горячо рекомендую коллегам: тому, чей проект выберет Иван, однозначно повезёт! Он становится незримым, но очень важным украшением конечного продукта.",
 			"contacts": [
 				{
@@ -685,8 +685,8 @@
 			"id": "gorinova",
 			"name": "Наталья Горинова",
 			"role": "Заведующая редакцией «Фантастика и фэнтези», издательство АСТ",
-			"image": "/images/recomendation/Gorinova.webp",
-			"alt": "Gorinova",
+			"image": "/images/recommendation/Gorinova.webp",
+			"alt": "Наталья Горинова",
 			"review": "Иван Селиверстов — внимательный и надёжный редактор, с которым спокойно и приятно работать. Когда мы запускали серию комиксов молодых отечественных авторов, я не думала долго, к кому обратиться, и не прогадала: он всегда оставался собранным и точным в деталях. Иван добросовестный, организованный и искренне вовлечённый специалист, с которым проекты движутся вперёд уверенно и без лишней суеты.",
 			"contacts": [
 				{
@@ -702,14 +702,14 @@
 	],
 	"gratitudeImagesData": [
 		{
-			"src": "/images/recomendation/Acknowledgement_Kojima.webp",
-			"thumb": "/images/recomendation/Acknowledgement_Kojima_thumb.webp",
-			"alt": "Acknowledgement_Kojima"
+			"src": "/images/recommendation/Acknowledgement_Kojima.webp",
+			"thumb": "/images/recommendation/Acknowledgement_Kojima_thumb.webp",
+			"alt": "Титульная страница книги «Биг Босс» с автографом иллюстратора и благодарностью редактору"
 		},
 		{
-			"src": "/images/recomendation/Acknowledgement_IRKI.webp",
-			"thumb": "/images/recomendation/Acknowledgement_IRKI_thumb.webp",
-			"alt": "Acknowledgement_IRKI"
+			"src": "/images/recommendation/Acknowledgement_IRKI.webp",
+			"thumb": "/images/recommendation/Acknowledgement_IRKI_thumb.webp",
+			"alt": "Страница книги «История российских компьютерных игр» с автографами и благодарностями команды"
 		}
 	],
 	"questionsData": [
